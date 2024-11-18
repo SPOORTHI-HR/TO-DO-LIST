@@ -1,0 +1,44 @@
+body {
+    background-image: url("images/moon.png"); 
+    background-size: cover;
+    }
+    .todo-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    background-image: url("images/red-flower-aesthetic-mnold3zlr7j9f27s.jpg");
+    background-color: #39382f;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgb(255, 5, 201);
+    }
+    h1 {
+    text-align: center;
+    color: #ff0000;
+    }
+    input, button {
+    padding: 10px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+    }
+    button {
+    background-color: #19850b;
+    color: white;
+    cursor: pointer;
+    }
+    ul {
+    list-style: none;
+    padding: 0;
+    }
+    li {
+    background-color: #ffffff;
+    border: 1px solid #ff0080;
+    border-radius: 5px;
+    padding: 10px;
+    margin-bottom: 5px;
+    }
+    li.completed {
+    text-decoration: line-through;
+    background-color: #777777;
+    }
+    

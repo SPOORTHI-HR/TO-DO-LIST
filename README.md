@@ -20,7 +20,7 @@ JavaScript: For adding interactivity to the web page.
 Clone the Repository:
 
 bash
-git clone https://github.com/your-username/todo-list.git
+git clone https:https://github.com/SPOORTHI-HR/TO-DO-LIST
 cd todo-list
 Open the index.html File: Open the index.html file in your web browser to view and use the to-do list application.
 
